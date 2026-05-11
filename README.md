@@ -56,14 +56,14 @@ Contains user ratings:
 ## Project Structure
 
 ```text
-movie-ratings-analytics/
+Movie_Ratings_Data_Processing/
 │
 ├── data/
 │   ├── movies.csv
 │   └── ratings.csv
 │
 ├── notebooks/
-│   └── movie_ratings_analysis.ipynb
+│   └── Movie_Ratings_Data_Processing-English.ipynb
 │
 ├── images/
 │
